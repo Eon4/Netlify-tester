@@ -1,0 +1,4 @@
+[build]
+base = "/NetTester"
+publish = "/dist/"
+command = "vite build"
